@@ -133,8 +133,8 @@ colcon build
 
 Please remember to source first!!!
 ```bash
-source ~/ff_ros1_ws/install/setup.bash
 source ~/ME5400_Final/devel/setup.bash
+source ~/ff_ros1_ws/install/setup.bash
 export PYTHONPATH=~/pysot:$PYTHONPATH
 ```
 
